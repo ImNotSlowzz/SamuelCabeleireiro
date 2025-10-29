@@ -38,7 +38,7 @@ export default function Contact() {
                 <h3 className="font-bold text-black mb-2">Horário de Funcionamento</h3>
                 <p className="text-gray-600 leading-relaxed">
                   Segunda a Sexta: 09h às 20h<br />
-                  Sábado: 09h às 18h<br />
+                  Sábado: 09h às 19h<br />
                   Domingo: Fechado
                 </p>
               </div>
