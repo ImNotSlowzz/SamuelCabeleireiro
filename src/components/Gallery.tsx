@@ -1,13 +1,14 @@
 import { Scissors } from 'lucide-react';
 
 const galleryItems = [
-  {  client: 'Cliente 1', image: '/photos/cliente1.jpg' },
-  {  client: 'Cliente 2', image: '/photos/cliente2.jpg' },
-  {  client: 'Cliente 3', image: '/photos/cliente3.jpg' },
-  {  client: 'Cliente 4', image: '/photos/cliente4.jpg' },
-  {  client: 'Cliente 5', image: '/photos/cliente5.jpg' },
-  {  client: 'Cliente 6', image: '/photos/cliente6.jpg' },
+  { client: 'Cliente 1', image: '/SamuelCabeleireiro/photos/cliente1.jpg' },
+  { client: 'Cliente 2', image: '/SamuelCabeleireiro/photos/cliente2.jpg' },
+  { client: 'Cliente 3', image: '/SamuelCabeleireiro/photos/cliente3.jpg' },
+  { client: 'Cliente 4', image: '/SamuelCabeleireiro/photos/cliente4.jpg' },
+  { client: 'Cliente 5', image: '/SamuelCabeleireiro/photos/cliente5.jpg' },
+  { client: 'Cliente 6', image: '/SamuelCabeleireiro/photos/cliente6.jpg' },
 ];
+
 
 export default function Gallery() {
   return (
