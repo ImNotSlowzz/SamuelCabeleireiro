@@ -70,7 +70,7 @@ Atualmente, seu salão é símbolo de superação, fé e amor pelo que faz. Samu
           <div className="relative">
             <div className="aspect-[3/4] bg-gradient-to-br from-gray-800 to-gray-900 relative overflow-hidden rounded-3xl shadow-2xl group">
               <img
-                src="/photos/samu.jpg" // 👉 coloque a foto aqui
+                src='/SamuelCabeleireiro/photos/samu.jpg' // 👉 coloque a foto aqui
                 alt="Samuel Cabelereiro"
                 className="w-full h-full object-cover opacity-90 group-hover:opacity-100 group-hover:scale-105 transition-all duration-700 ease-out"
               />
